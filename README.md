@@ -2,4 +2,6 @@
 
 Build Recommender System
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://github.com/Mikelangelo007/RecSys.git)
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/Mikelangelo007/RecSys)
+
+
